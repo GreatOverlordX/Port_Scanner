@@ -32,3 +32,4 @@ for port in ports:
         print(sorted(open_ports))
     else: 
         print('Oops :( ! Looks like no ports are open')
+
